@@ -11,6 +11,7 @@
     <Compile Include="$(BswmThisDir)AssemblyInfo.cs" />
 
     <Compile Include="$(BswmThisDir)Services\AbstractWindowService.cs" />
+    <Compile Include="$(BswmThisDir)Services\DialogSettings.cs" />
     <Compile Include="$(BswmThisDir)Services\IWindowService.cs" />
   </ItemGroup>
 

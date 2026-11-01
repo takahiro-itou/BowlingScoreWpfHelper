@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+
+  <PropertyGroup>
+    <BswmThisDir>$(MSBuildThisFileDirectory)</BswmThisDir>
+  </PropertyGroup>
+
+  <Import Project="$(BswmThisDir)WpfHelper\WpfHelper.props" />
+
+  <ItemGroup>
+    <Compile Include="$(BswmThisDir)AssemblyInfo.cs" />
+
+    <Compile Include="$(BswmThisDir)Services\AbstractWindowService.cs" />
+    <Compile Include="$(BswmThisDir)Services\DialogSettings.cs" />
+    <Compile Include="$(BswmThisDir)Services\IWindowService.cs" />
+  </ItemGroup>
+
+</Project>

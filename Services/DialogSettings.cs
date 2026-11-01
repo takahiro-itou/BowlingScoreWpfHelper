@@ -1,9 +1,9 @@
 ﻿//  -*-  coding: utf-8-with-signature-unix     -*-  //
 /*************************************************************************
 **                                                                      **
-**                  ---  Baseball  Score  Project  ---                  **
+**                  ---  Bowling  Score  Project.  ---                  **
 **                                                                      **
-**          Copyright (C), 2017-2026, Takahiro Itou                     **
+**          Copyright (C), 2025-2026, Takahiro Itou                     **
 **          All Rights Reserved.                                        **
 **                                                                      **
 **          License: (See COPYING or LICENSE files)                     **
@@ -11,7 +11,6 @@
 **          or (at your option) any later version.                      **
 **                                                                      **
 *************************************************************************/
-
 
 namespace  BaseballScoreHelper.Services  {
 

@@ -15,7 +15,7 @@
 using   BowlingScoreHelper.ViewModels;
 
 
-namespace  BaseballScoreHelper.Services  {
+namespace  BowlingScoreHelper.Services  {
 
 //========================================================================
 //
